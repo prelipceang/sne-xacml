@@ -103,7 +103,7 @@ public class LoadPolicyTest2 {
     }
 
     /**
-     * @param domRequest
+     * @param dom Request
      * @return
      */
     private static PolicySetType unmarshalPolicySetType(Element dom) {

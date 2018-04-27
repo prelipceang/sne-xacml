@@ -23,3 +23,5 @@ nbdist/
 target/
 ### Mac OSX ###
 .DS_Store
+
+sne-xacml-validation-logging.txt

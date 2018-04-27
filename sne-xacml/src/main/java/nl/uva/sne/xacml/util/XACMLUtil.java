@@ -61,7 +61,7 @@ public class XACMLUtil {
     }
 
     /**
-     * @param domRequest
+     * @param dom Request
      * @return
      */
     private static PolicySetType unmarshalPolicySetType(Element dom) {
